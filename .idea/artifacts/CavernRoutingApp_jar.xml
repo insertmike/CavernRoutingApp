@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CavernRoutingApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CavernRoutingApp_jar</output-path>
+    <root id="archive" name="CavernRoutingApp.jar">
+      <element id="module-output" name="CavernRoutingApp" />
+    </root>
+  </artifact>
+</component>
